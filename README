@@ -1,0 +1,20 @@
+Compile with: make
+Run with ./myshell
+
+/*
+@Author Sushanth Sangem 10/01/2019
+Unix Shell, can use functions:
+date
+cal
+who
+ls
+ps
+time
+cd
+clr
+dir
+environ
+echo
+help - no functionality
+pause - no functionality
+*/
